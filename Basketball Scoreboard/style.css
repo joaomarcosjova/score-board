@@ -1,0 +1,32 @@
+
+body {
+    margin: 0;
+    background-color: #1B244A;
+    text-align: center;
+    color: #fff;
+}
+
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.score {
+   background-color: #0a0001;
+   font-size: 90px;
+   color: #f94f6d;
+   width: 120px;
+   margin: 20px;
+}
+
+button {
+    background: none;
+    color: #fff;
+    border-color: #fff;
+}
+
+.reset-btn {
+    margin-top: 40px;
+    padding: 10px;
+}
